@@ -1,4 +1,4 @@
-/* Starter Code  */
+/* starter code provided */
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -61,14 +61,12 @@ textarea {
 }
 
 
+/* what I added beyond provided starter code */
 
-/* Added Code  */
-
-
-.alert {
+.notification {
   display: none;
 }
 
-.show {
+.display {
   display: block;
 }
